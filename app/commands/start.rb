@@ -2,7 +2,7 @@ require_relative "./base"
 
 module Commands
   class Start < Base
-    TEXT = "Hi! This bot helps you to learn english words. Available commands:\n /start - show info".freeze
+    TEXT = "Поиск групп из ресурса Metal Archives\n /start - show info".freeze
 
     private
 
